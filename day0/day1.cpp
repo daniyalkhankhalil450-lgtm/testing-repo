@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main (){
+    int age = 25;
+    char grade ='A';
+    cout  <<grade <<endl;
+    cout  << age  <<endl;
+    cout<<"hellow world" <<"\n" ;
+    cout << "this is daniyal khan .";
+
+
+
+
+    return 0;
+}
